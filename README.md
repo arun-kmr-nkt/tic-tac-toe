@@ -18,6 +18,10 @@ The project follows atomic design principles:
 - `molecules/`: Contains combinations of atoms (Board)
 - `organisms/`: Contains larger components with business logic (Game)
 
+## Live Demo
+
+You can play the game at: https://tic-tac-toe-33f10.web.app
+
 ## Getting Started
 
 1. Install dependencies:
@@ -45,4 +49,5 @@ npm start
 
 - React.js
 - Styled Components
-- Modern JavaScript (ES6+) 
+- Modern JavaScript (ES6+)
+- Firebase Hosting
